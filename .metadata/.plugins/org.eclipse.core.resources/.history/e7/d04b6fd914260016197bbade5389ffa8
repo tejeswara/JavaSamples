@@ -1,0 +1,14 @@
+package com.java.sample.code.lambdas;
+
+import java.util.function.Supplier;
+
+public class SupplierDemo {
+	public static void main(String[] args) {
+		Supplier<String> supplier = () -> myStr();
+		System.out.println(supplier.get());
+	}
+	
+	private static String myStr() {
+		return "hello";
+	}
+}
