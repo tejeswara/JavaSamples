@@ -508,3 +508,29 @@
 2016-07-02 10:11:28,388 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkotthakota/ws/JavaSamples/code/src/main/resources
 2016-07-02 10:11:28,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-07-02 10:11:28,390 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tkotthakota/ws/JavaSamples/code/src/test/resources
+2016-07-03 18:22:04,977 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.sample:code:0.0.1-SNAPSHOT @ /Users/tej.kotthakota/git/sample/javasamples/code/pom.xml.
+2016-07-03 18:22:05,299 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:22:05,300 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:22:05,302 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:22:05,302 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
+2016-07-03 18:22:06,101 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.java.sample:code:0.0.1-SNAPSHOT @ /Users/tej.kotthakota/git/sample/javasamples/code/pom.xml.
+2016-07-03 18:22:06,652 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:22:06,652 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:22:06,654 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:22:06,655 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
+2016-07-03 18:23:38,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:23:38,110 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:23:38,111 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:23:38,111 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
+2016-07-03 18:25:06,717 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:25:06,717 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:25:06,718 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:25:06,719 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
+2016-07-03 18:25:37,395 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:25:37,395 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:25:37,396 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:25:37,396 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
+2016-07-03 18:26:13,725 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:26:13,725 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/main/resources
+2016-07-03 18:26:13,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-07-03 18:26:13,726 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/tej.kotthakota/git/sample/javasamples/code/src/test/resources
